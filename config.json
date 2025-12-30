@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "demographic",
+      "platform": "snapchat",
+      "price": 150
+    },
+    {
       "name": "firmware",
       "platform": "snapchat",
       "price": 125
