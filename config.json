@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "pittsburgh",
+      "platform": "snapchat",
+      "price": 300
+    },
+    {
       "name": "driven",
       "platform": "snapchat",
       "price": 175
