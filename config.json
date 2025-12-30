@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "thesimpsons",
+      "platform": "snapchat",
+      "price": 75
+    },
+    {
       "name": "woofwoof",
       "platform": "snapchat",
       "price": 75
