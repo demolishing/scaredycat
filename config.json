@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "wolfpack",
+      "platform": "snapchat",
+      "price": 100
+    },
+    {
       "name": "updating",
       "platform": "snapchat",
       "price": 100
