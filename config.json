@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "firmware",
+      "platform": "snapchat",
+      "price": 125
+    },
+    {
       "name": "neural",
       "platform": "snapchat",
       "price": 125
