@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "wolfpack",
+      "platform": "discord",
+      "price": 250
+    },
+    {
       "name": "youngsters",
       "platform": "discord",
       "price": 100
