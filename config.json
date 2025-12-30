@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "plucks",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "menstruating",
       "platform": "discord",
       "price": 75
