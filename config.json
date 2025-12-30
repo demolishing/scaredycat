@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "proposition",
+      "platform": "snapchat",
+      "price": 150
+    },
+    {
       "name": "supplement",
       "platform": "snapchat",
       "price": 150
