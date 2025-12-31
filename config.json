@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "inquiry",
+      "platform": "epicgames",
+      "price": 75
+    },
+    {
       "name": "esdeekid",
       "platform": "steam",
       "price": 300
