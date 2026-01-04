@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "yungbans",
+      "platform": "discord",
+      "price": 100
+    },
+    {
       "name": "inquiry",
       "platform": "epicgames",
       "price": 75
