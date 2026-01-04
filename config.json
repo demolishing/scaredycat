@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "buddhist",
+      "platform": "epicgames",
+      "price": 250
+    },
+    {
       "name": "polog",
       "platform": "epicgames",
       "price": 175
