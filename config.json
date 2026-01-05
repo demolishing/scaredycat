@@ -261,11 +261,6 @@
       "price": 500
     },
     {
-      "name": "expunge",
-      "platform": "discord",
-      "price": 100
-    },
-    {
       "name": "kimkardashian",
       "platform": "steam",
       "price": "offer"
