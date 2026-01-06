@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "whore",
+      "platform": "soundcloud",
+      "price": "offer"
+    },
+    {
       "name": "hinata",
       "platform": "epicgames",
       "price": 500
