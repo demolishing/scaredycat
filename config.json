@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "prismarine",
+      "platform": "soundcloud",
+      "price": "offer"
+    },
+    {
       "name": "panicked",
       "platform": "epicgames",
       "price": 50
