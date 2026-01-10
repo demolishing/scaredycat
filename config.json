@@ -3701,11 +3701,6 @@
       "price": 300
     },
     {
-      "name": "fyy",
-      "platform": "epicgames",
-      "price": 50
-    },
-    {
       "name": "gumbus",
       "platform": "telegram",
       "price": "offer"
