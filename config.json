@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "d2i",
+      "platform": "epicgames",
+      "price": 15
+    },
+    {
       "name": "mainecoon",
       "platform": "steam",
       "price": "offer"
