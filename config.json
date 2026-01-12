@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "mjolnir",
+      "platform": "telegram",
+      "price": 300
+    },
+    {
       "name": "whimpering",
       "platform": "discord",
       "price": 500
