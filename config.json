@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "milcery",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "loafing",
       "platform": "epicgames",
       "price": 25
