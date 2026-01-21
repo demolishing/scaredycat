@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "cochise",
+      "platform": "snapchat",
+      "price": 150
+    },
+    {
       "name": "raygun",
       "platform": "snapchat",
       "price": 100
